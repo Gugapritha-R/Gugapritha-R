@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gugapritha-R
+- 👋 Hi, I’m Gugapritha R a Software Engineering Student 
 - 👀 I’m interested in MERN stack development and DevOps
 - 🌱 I’m currently expanding my skills and knowledge in software development and IT practices
 - 📫 How to reach me: gugapritharao@gmail.com
