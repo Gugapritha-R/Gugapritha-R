@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Gugapritha R a Software Engineering Student 
-- 👀 I’m interested in MERN stack development and DevOps
-- 🌱 I’m currently expanding my skills and knowledge in software development and IT practices
-- 📫 How to reach me: gugapritharao1803@gmail.com
+ Hi, I’m Gugapritha R a Software Engineering Student exploring the AIML domain through projects and hands-on experience!.
+- Feel free to reach out to me: gugapritharao1803@gmail.com
 
 
 
